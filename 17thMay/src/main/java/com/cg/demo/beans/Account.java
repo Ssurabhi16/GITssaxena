@@ -21,7 +21,7 @@ public class Account {
 		this.customer = customer;
 	}
 	public int getNumber() {
-		return number;
+		return number; // This is the comment
 	}
 	
 	
